@@ -133,17 +133,10 @@ Insights provided by the project:
 2. **Create your feature branch** (`git checkout -b feature-branch`)
 3. **Commit your changes** (`git commit -m 'Add new feature'`)
 4. **Push to the branch** (`git push origin feature-branch`)
-5. **Submit a pull request** 🎉
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
-
-## 📬 Contact
-For any questions or collaboration opportunities, reach out at [Your Email/Contact Info].
+5. **Submit a pull request** 🎉  
 
 ## 🙌 Acknowledgments
-- **Data Source**: [Source of the disaster dataset]  
-- **Contributors & Advisors**  
+- **Data Source**: [Source of the disaster dataset] --later 
 
 💡 *"Predicting disasters today for a safer tomorrow in Algeria."* 🌱
 
