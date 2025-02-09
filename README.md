@@ -22,13 +22,10 @@ seaborn
 
 ## 📂 Project Structure
 ```
-├── data/
-│   ├── 1900_2021_DISASTERS.xlsx
-│   └── cleaned_disaster_data3.csv
-├── scripts/
-│   ├── preprocessing.py
-│   ├── classification.py
-│   └── clustering.py
+├── Data/
+│   └── 1900_2021_DISASTERS.xlsx
+├── Scripts/
+│   └── script.py
 └── README.md
 ```
 
@@ -45,10 +42,7 @@ pip install -r requirements.txt
 ## 📊 Usage
 
 ### 🧹 Data Preprocessing
-Run the script to clean and preprocess disaster data:
-```bash
-python preprocessing.py
-```
+Run the cell to clean and preprocess disaster data:
 ✔ Loads raw disaster data  
 ✔ Handles missing values  
 ✔ Converts data types  
@@ -56,10 +50,7 @@ python preprocessing.py
 ✔ Exports cleaned dataset  
 
 ### 🔍 Classification Model
-Execute the classification script:
-```bash
-python classification.py
-```
+Execute the classification cell:
 Features:
 - Decision Tree Classifier
 - Terrain-based disaster prediction
@@ -67,10 +58,7 @@ Features:
 - Feature importance analysis
 
 ### 🔗 Clustering Analysis
-Run the clustering script:
-```bash
-python clustering.py
-```
+Run the clustering cell:
 Includes:
 - Multiple clustering algorithms
 - Optimal cluster determination
@@ -136,7 +124,7 @@ Insights provided by the project:
 5. **Submit a pull request** 🎉  
 
 ## 🙌 Acknowledgments
-- **Data Source**: [Source of the disaster dataset] --later 
+- **Data Source**: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 
 💡 *"Predicting disasters today for a safer tomorrow in Algeria."* 🌱
 
